@@ -3,12 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viramya-shah" alt="viramya-shah" /> </p>
 
-- 🔭 I’m currently working on **Increasing Efficacy of Customer Call Centers using Churn analysis and NLP**
+- 🔭 I am a computer engineer, gathering experience and knowledge about deep learning. Currently my interests weigh heavily towards Natural Language Processing and Machine Learning  in particular. Majority of my projects so far have been related to NLP and I have considerable experience working with relevant tools. Looking forward to connecting with people that share a similar passion about the subject, to share and grow together
 
 - 👨‍💻 [Resume](https://drive.google.com/file/d/1rE2LD5BzCnXISItSWW9r9xjjRfRvIk-5/view?usp=sharing)
 
-- 📫 How to reach me **shah.viram@northeastern.edu**
+- 📫 How to reach me **rawat.m@northeastern.edu**
 
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=viramya-shah&show_icons=true" alt="viramya-shah" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mukul1em&show_icons=true" alt="mukul1em" /></p>
